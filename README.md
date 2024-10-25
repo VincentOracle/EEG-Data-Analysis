@@ -38,6 +38,6 @@ This project successfully demonstrated the application of EEG data preprocessing
 
 ## 8. Future Work
 Future studies could explore:</br>
-1.The influence of individual differences (e.g., pain sensitivity, psychological factors) on EEG responses.
-2.The application of machine learning techniques to classify EEG patterns associated with different types of pain stimuli.
-3.Longitudinal studies to assess changes in brain activity over time in response to pain treatment interventions.
+1.The influence of individual differences (e.g., pain sensitivity, psychological factors) on EEG responses.</br>
+2.The application of machine learning techniques to classify EEG patterns associated with different types of pain stimuli.</br>
+3.Longitudinal studies to assess changes in brain activity over time in response to pain treatment interventions.</br>
